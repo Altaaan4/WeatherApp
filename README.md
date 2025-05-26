@@ -38,6 +38,7 @@ Once a city is selected, the app displays:
 ---
 
 ## 📸 Screenshots
+![Image](https://github.com/user-attachments/assets/478c76ac-5174-4de2-ab9d-c01b65aadcf9)
 
 
 
